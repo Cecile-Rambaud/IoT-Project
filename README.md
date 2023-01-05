@@ -32,13 +32,14 @@ Configure TypeScript ``` tsc --init ```. Go to http://localhost:8086/ et sign in
 ### Thrid Step : Grafana
 Return on http://localhost:3000/ and auth with "admin" and "admin" for both fields. Add your first data source with InfluxDB and Query language = Flux. Paste the URL = http://localhost:8086/ and disallow basic auth. Copy settings informations on .env and save & test.
 
-Add New Dashboard > Add a new panel > Sample Query > simple query
-Confirgure : "db/rp" = your bucket
-Confirgure : v.timeRangeStart , stop:v.timeRangeStop = -1d 
-Confirgure : "exemple-measurement" = "humidity"
-Confirgure :  "exemple-filed" = "humidity"
-Confirgure : "exemple-measurement" = "temperature"
-Confirgure : "exemple-filed" = "Temperature"
-Confirgure : Unit = temperature(°C)
-Confirgure : treshold = 25
-Save & Apply
+***
+- Add New Dashboard > Add a new panel > Sample Query > simple query
+- Confirgure : "db/rp" = your bucket
+- Confirgure : v.timeRangeStart , stop:v.timeRangeStop = -1d 
+- Confirgure : "exemple-measurement" = "humidity"
+- Confirgure :  "exemple-filed" = "humidity"
+- Confirgure : "exemple-measurement" = "temperature"
+- Confirgure : "exemple-filed" = "Temperature"
+- Confirgure : Unit = temperature(°C)
+- Confirgure : treshold = 25
+- Save & Apply
