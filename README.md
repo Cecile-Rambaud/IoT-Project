@@ -42,10 +42,15 @@ Add New Dashboard > Add a new panel > Sample Query > simple query :
 
 
 ![CAPTURE 1](https://user-images.githubusercontent.com/56160891/210944691-470cf502-abce-48b4-b04c-ddde26635fff.jpg)
+![46cf0133dadda31481d5b46e725ef9d2b13d5bd6](https://user-images.githubusercontent.com/56160891/210946386-6436b0e9-434f-40d3-a199-5386bd645d77.png)
 
 ![CAPTURE 2](https://user-images.githubusercontent.com/56160891/210944722-0aa8c922-97bf-4835-b888-3a12ad71fde1.png)
 
 ![CAPTURE 3](https://user-images.githubusercontent.com/56160891/210944952-b876a8c8-9c42-4de2-880a-b1266d9cfe79.png)
+![5ef260a73ef3ddb0626515081fde7a0020eafe5e](https://user-images.githubusercontent.com/56160891/210946446-034429e7-14aa-4f9e-8e62-a135a2dee0dd.png)
+![3663c1a51159fff7515a64195c97ecf06fa2f14e](https://user-images.githubusercontent.com/56160891/210946475-ec16fda3-2d11-4a5d-b4ca-644e4704fa55.png)
+![5bbf319014e060bb1d9ba484e5a7df8a9a4beefe](https://user-images.githubusercontent.com/56160891/210946502-5b389a57-4a1b-4cd1-b0ee-c37f47b925e4.png)
+
 
 ![CAPTURE 4](https://user-images.githubusercontent.com/56160891/210945656-9e9e9321-2979-4e61-b360-40a24adbb5bb.png)
 
