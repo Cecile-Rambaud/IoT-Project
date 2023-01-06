@@ -41,13 +41,15 @@ Add New Dashboard > Add a new panel > Sample Query > simple query :
 
 
 
-![Grafana-Web-Interface-Localhost3000-1024x534](https://user-images.githubusercontent.com/56160891/210944691-470cf502-abce-48b4-b04c-ddde26635fff.jpg)
+![CAPTURE 1](https://user-images.githubusercontent.com/56160891/210944691-470cf502-abce-48b4-b04c-ddde26635fff.jpg)
 
-![image-20![image-20220124144300849](https://user-images.githubusercontent.com/56160891/210944779-303ab2a1-cf38-4dc1-8dcc-1ac1747cf15c.png)
+![CAPTURE 2](https://user-images.githubusercontent.com/56160891/210944779-303ab2a1-cf38-4dc1-8dcc-1ac1747cf15c.png)
 220124144322352](https://user-images.githubusercontent.com/56160891/210944722-0aa8c922-97bf-4835-b888-3a12ad71fde1.png)
 
-![image-20220124144300849](https://user-images.githubusercontent.com/56160891/210944952-b876a8c8-9c42-4de2-880a-b1266d9cfe79.png)
+![CAPTURE 3](https://user-images.githubusercontent.com/56160891/210944952-b876a8c8-9c42-4de2-880a-b1266d9cfe79.png)
 
-![1_kn-XunmxX54ytvSWdPStTg](https://user-images.githubusercontent.com/56160891/210945493-a45882ed-b32e-4ec7-908d-983266dd1ed8.png)
+![CAPTURE 4](https://user-images.githubusercontent.com/56160891/210945656-9e9e9321-2979-4e61-b360-40a24adbb5bb.png)
 
-![CAPTURE 2](https://user-images.githubusercontent.com/56160891/210943221-d396f026-0c02-4da6-9afe-e6758ee5b3c6.jpg)
+![CAPTURE 5](https://user-images.githubusercontent.com/56160891/210945493-a45882ed-b32e-4ec7-908d-983266dd1ed8.png)
+
+![CAPTURE 6](https://user-images.githubusercontent.com/56160891/210943221-d396f026-0c02-4da6-9afe-e6758ee5b3c6.jpg)
