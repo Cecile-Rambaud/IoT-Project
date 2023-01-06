@@ -13,10 +13,6 @@
 - [ ] Influx API : ``` npm install --save @influxdata/influxdb-client-apis ```
 - [ ] dotenv : ``` dotenv --save ```
 
-## URLs : 
-- Influxd : http://localhost:8086
-- Grafana : http://localhost:8000/
-
 ## Documentation : 
 - Influxd : https://docs.influxdata.com/
 - Grafana : https://grafana.com/docs/grafana/latest/
