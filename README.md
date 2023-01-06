@@ -46,5 +46,8 @@ Add New Dashboard > Add a new panel > Sample Query > simple query :
 ![image-20![image-20220124144300849](https://user-images.githubusercontent.com/56160891/210944779-303ab2a1-cf38-4dc1-8dcc-1ac1747cf15c.png)
 220124144322352](https://user-images.githubusercontent.com/56160891/210944722-0aa8c922-97bf-4835-b888-3a12ad71fde1.png)
 
+![image-20220124144322352](https://user-images.githubusercontent.com/56160891/210944863-1221975d-bd82-4b48-bb88-1a450c3993a7.png)
+
+
 
 ![CAPTURE 2](https://user-images.githubusercontent.com/56160891/210943221-d396f026-0c02-4da6-9afe-e6758ee5b3c6.jpg)
