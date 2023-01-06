@@ -45,3 +45,5 @@ Return on http://localhost:3000/ and auth with "admin" and "admin" for both fiel
 - Confirgure : Unit = temperature(°C)
 - Confirgure : treshold = 25
 - Save & Apply
+
+![Result](https://user-images.githubusercontent.com/56160891/210941797-3b7641b0-6ba1-4605-aaf3-35f9580417c5.jpg)
