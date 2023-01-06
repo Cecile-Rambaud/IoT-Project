@@ -26,7 +26,7 @@ Download the zip "tp-iot" and extract it in a new folder. After, install NodeJs,
 ### Second Step : InfluxD
 Configure TypeScript wth the command ``` tsc --init ```. Go to http://localhost:8086/ et sign in. Copy the URL and remplace "url" by the adress on the .env file. Then, make the same for the ID of organisation. Return on influxd and create a new bucket and copy the ID too in the .env. Create a new APIToken and copy the ID. Run the MiddleWare ``` node app.js ``` then, run the sensors in a new terminal tab ``` npm i ``` ``` npm run sensors ``` in the folder : tp-iot/tp-iot-main. 
 
-### Thrid Step : Grafana
+### Third Step : Grafana
 Return on http://localhost:3000/ and auth with "admin" and "admin" for both fields. Add your first data source > with InfluxDB > Query language > Flux. Paste the URL = http://localhost:8086/ and disallow basic auth. Copy settings informations on .env and save & test.
 Add New Dashboard > Add a new panel > Sample Query > simple query :
 - Configure : "db/rp" = your bucket
