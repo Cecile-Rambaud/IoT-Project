@@ -45,6 +45,8 @@ Add New Dashboard > Add a new panel > Sample Query > simple query :
 
 ![CAPTURE 2](https://user-images.githubusercontent.com/56160891/210944722-0aa8c922-97bf-4835-b888-3a12ad71fde1.png)
 
+![CAPTURE 7](https://user-images.githubusercontent.com/56160891/210945656-9e9e9321-2979-4e61-b360-40a24adbb5bb.png)
+
 ![CAPTURE 3](https://user-images.githubusercontent.com/56160891/210944952-b876a8c8-9c42-4de2-880a-b1266d9cfe79.png)
 
 ![CAPTURE 4](https://user-images.githubusercontent.com/56160891/210947129-1d0a2b48-00ad-4ef8-b566-80debb3bf46b.png)
@@ -53,7 +55,7 @@ Add New Dashboard > Add a new panel > Sample Query > simple query :
 
 ![CAPTURE 6](https://user-images.githubusercontent.com/56160891/210946475-ec16fda3-2d11-4a5d-b4ca-644e4704fa55.png)
 
-![CAPTURE 7](https://user-images.githubusercontent.com/56160891/210945656-9e9e9321-2979-4e61-b360-40a24adbb5bb.png)
+
 
 ![CAPTURE 8](https://user-images.githubusercontent.com/56160891/210945493-a45882ed-b32e-4ec7-908d-983266dd1ed8.png)
 
