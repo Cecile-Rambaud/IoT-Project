@@ -43,4 +43,4 @@ Add New Dashboard > Add a new panel > Sample Query > simple query :
 - Configure : treshold = 25
 - Save & Apply
 
-![Result](https://user-images.githubusercontent.com/56160891/210941797-3b7641b0-6ba1-4605-aaf3-35f9580417c5.jpg)
+![CAPTURE 2](https://user-images.githubusercontent.com/56160891/210943221-d396f026-0c02-4da6-9afe-e6758ee5b3c6.jpg)
