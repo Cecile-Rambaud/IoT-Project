@@ -1,4 +1,4 @@
-# Iot - Grafana
+# IoT - Grafana
 
 ## Downloads : 
 - [ ] Influxd : https://dl.influxdata.com/influxdb/releases/influxdb2-2.5.1-windows-amd64.zip
